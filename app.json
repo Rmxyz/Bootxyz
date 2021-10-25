@@ -1,0 +1,11 @@
+{
+  "name": "Bootxyz",
+  "description": "Rmxyz",
+  "repository": "https://github.com/Rmxyz/Bootxyz",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "whatsapp-bot"
+  ]
+}
