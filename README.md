@@ -1,0 +1,2 @@
+# Bootxyz 
+#simple bot 
