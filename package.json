@@ -1,8 +1,8 @@
 {
-  "name": "PENA BOT",
+  "name": "Bootxyz",
   "type": "Baileys",
   "version": "3.5.2",
-  "description": "don't forget to subscribe my channel youtube: Arifi Razzaq OFFICIAL",
+  "description": "Bootxyz",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   "keywords": [
     "bot"
   ],
-  "author": "Arifi Razzaq",
+  "author": "Rmxyz",
   "license": "GPL-3.0",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
@@ -90,11 +90,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Arifirazzaq2001/Al-Razzaq-BOT.git"
+    "url": "git+https://github.com/Rmxyz/Bootxyz.git"
   },
   "bugs": {
-    "url": "https://github.com/Arifirazzaq2001/Al-Razzaq-BOT/issues"
+    "url": "https://github.com/Rmxyz/Bootxyz/issues"
   },
-  "homepage": "https://github.com/Arifirazzaq2001/Al-Razzaq-BOT#readme",
+  "homepage": "https://github.com/Rmxyz/Rmxyz",
   "devDependencies": {}
 }
