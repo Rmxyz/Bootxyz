@@ -1,18 +1,18 @@
 {
-    "packName" : "PENA BOT",
-    "ownernama" : "Arifi Razzaq",
+    "packName" : "Bootxyz",
+    "ownernama" : "Rmxyz",
     "reason" : "Sedang Sibuk",
-    "authName" : "Create By  @arifirazzaq2001",
+    "authName" : "Create By @Rmxyz",
     "handler" : "./index.js",
     "session" : "./handler/session/session.json",
     "deleted" : "./message/delete",
     "welcome" : "./message/group",
     "starts" : "./main.js",
-    "numberNon" : "6281261324817",
+    "numberNon" : "6289638023602",
     "ownerNumber": [
-        "6281261324817@s.whatsapp.net",
-        "62895622955527@s.whatsapp.net", 
-        "687955238@s.whatsapp.net"
+        "6289638023602@s.whatsapp.net",
+        "6281291282733@s.whatsapp.net", 
+        "6281291282733@s.whatsapp.net"
     ], 
     
        "desc" : {
@@ -196,13 +196,13 @@
    "baileys" : "v 3.5.2"
    }
 },
-   "descpons" : "Developer Of PenaBot\nPrograming Otodidak💻",
-   "designbs" : "Arifi\nGalang\nManu\nIvan\nYogi\nNino\nAqull\nSenku\nMySelf\nYukii\nDappuhy",
-   "botNumberNon" : "687955238",
-   "ownerTunggal" : "6281261324817@s.whatsapp.net",
+   "descpons" : "Developer Of Bootxyz\nPrograming Otodidak💻",
+   "designbs" : "Arifi\Rmxyz\nGalang\nManu\nIvan\nYogi\nNino\nAqull\nSenku\nMySelf\nYukii\nDappuhy",
+   "botNumberNon" : "6281291282733",
+   "ownerTunggal" : "6289638023602@s.whatsapp.net",
    "revokedd" : "6287822277146-1629287518@g.us",
    "codeinvit" : "EiznDZqIWu40QPVO0Q9MVn",
-   "gitmyDev" : "https://github.com/Arifirazzaq2001",
+   "gitmyDev" : "https://github.com/Rmxyz",
    "orderNumber" : "155157279766079",
    "areaWhatsApp" : "0@s.whatsapp.net",
    "accesDude" : "AR5wc3iY2NY8yJaK9MMXdlK/aguUxoA8yPtSFcvt0lrE5g=="  
