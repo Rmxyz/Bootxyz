@@ -4,7 +4,7 @@
     "reason" : "Sedang Sibuk",
     "authName" : "Create By @Rmxyz",
     "handler" : "./index.js",
-    "session" : "./handler/session/session.json",
+    "session" : "./handler/session.json",
     "deleted" : "./message/delete",
     "welcome" : "./message/group",
     "starts" : "./main.js",
